@@ -34,7 +34,7 @@
         "yiisoft/network-utilities": "dev-master"
     },
     "require-dev": {
-        "phpunit/phpunit": "^9.3",
+        "phpunit/phpunit": "^9.4",
         "phan/phan": "^3.0"
     },
     "autoload": {
