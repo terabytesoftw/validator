@@ -28,7 +28,7 @@
         "ext-json": "*",
         "ext-mbstring": "*",
         "yiisoft/friendly-exception": "^1.0",
-        "yiisoft/strings": "^1.0",
+        "yiisoft/strings": "^2.0",
         "yiisoft/arrays": "dev-master",
         "yiisoft/translator": "dev-master",
         "yiisoft/network-utilities": "dev-master"
